@@ -1,1 +1,1 @@
-[Table](harrycanes.github.io/table "Table")
+[Table](table "Table")
